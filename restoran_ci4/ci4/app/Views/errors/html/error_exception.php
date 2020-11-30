@@ -374,7 +374,7 @@
 						</tr>
 						<tr>
 							<td>Memory Limit:</td>
-							<td><?= ini_get('memory_limit') ?></td>
+							<td><?= ini_get('memory_limit=1024M') ?></td>
 						</tr>
 					</tbody>
 				</table>
